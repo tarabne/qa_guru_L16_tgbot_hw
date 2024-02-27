@@ -2,3 +2,5 @@
 /build
 /.gradle
 *.DS_Store
+/notifications/config.json
+/notifications/draft.txt
